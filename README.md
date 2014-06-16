@@ -2,7 +2,7 @@ libDpm
 ======
 C++ Source Code for Dpm (Deformable Part Model)
 
-The source repository is hosted on GitHub.
+The source repository is hosted on GitHub.  
 https://github.com/hattorih/libDpm
 
 LICENSE
@@ -11,8 +11,8 @@ Please reffer to the LICENSE.md.
 
 AUTHOR
 ------
-Hironori Hattori, Carnegie Mellon University
-hattorih@cs.cmu.edu
+Hironori Hattori <hattorih@cs.cmu.edu>  
+Carnegie Mellon University
 
 If you have any questions,
 please feel free to contact me!
