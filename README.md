@@ -2,12 +2,12 @@ libDpm
 ======
 C++ Source Code for Dpm (Deformable Part Model)
 
-The source repository is hosted on GitHub.  
-https://github.com/hattorih/libDpm
-
-The following are the major uses:
+The major functions are as follows:
 - DPM (Deformable Part Model)
 - HOG (Histogram of Oriented Gradients)
+
+The source repository is hosted on GitHub.  
+https://github.com/hattorih/libDpm
 
 LICENSE
 -------
